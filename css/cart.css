@@ -1,0 +1,9 @@
+/* 主体内容 */
+#forward{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    margin-top:80px;
+}

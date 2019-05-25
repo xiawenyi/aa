@@ -1,0 +1,95 @@
+/*导航栏*/
+nav{
+    width:100%;
+    height:100px;
+    background-color: #f5f5f5;
+}
+.nav-top{
+    width:1000px;
+    height:100px;
+    margin:0 auto;
+    
+}
+.top-left{
+    position: relative;
+    padding:30px 0px 0px 0px;
+}
+.top-left>h2{
+    font-weight: 500;
+    font-size: 22px;
+    color:#4f4d4e;
+    position: absolute;
+    top:40px;
+    left:185px; 
+}
+/*主体*/
+.content-top{
+    width:100%;
+    height:560px;
+    background:url(../images/bg.png);
+
+}
+.content-top .top1{
+    position: relative;
+      width: 1000px;
+      margin:0 auto;
+      height: 560px;
+     
+      
+}
+.content-right{
+    position: absolute;
+    top:10%;
+    right:-23.5%;
+    width:580px;
+    height:465px;
+    background:rgba(0, 0, 0, 0.3); 
+    
+    
+}
+.shu-ju{
+    position: absolute;
+    width:580px;
+    height:465px;
+    top:1%;
+    right:.5%;
+}
+
+.content-li h2{
+    color:#ffff;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left:20px;
+    margin-top:10px;
+}
+.content-li span>a{
+   float: right;
+    color:#ffff;
+    font-size:12px;
+    margin: -16px 210px 0px  0px;
+}
+input{
+    margin-top:30px;
+    width:275px;
+    height:36px;
+    border:0px;
+    outline: none;
+    padding:2px 0px 2px 20px;
+    border-radius: 3px;
+}
+label{
+    text-align: right;
+    display:inline-block;
+    width:90px;
+    height: 15.2px;
+    color:#ffff;
+}
+.buttom input{
+    cursor: pointer;
+    color:#ffff;
+    background:#27b0f6;
+    margin-left: 17%;
+}
+
+
+
